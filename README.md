@@ -1,23 +1,14 @@
 # 팀 문섬 소개 페이지
 
+### [깃 컨벤션 규칙]((https://github.com/20260304-KB7-27/door_git_basic/blob/main/docs/team-rules.md))
 
-## 깃 컨벤션 규칙
+## 팀원 소개
 
-### <타입> : <제목> 형식으로 작성하며 제목은 최대 50글자 정도로만 입력
-### 제목을 아랫줄에 작성, 제목 끝에 마침표 금지, 무엇을 했는지 명확하게 작성
-
----
-### 본문(추가 설명)을 아랫줄에 작성
-
----
-### 꼬릿말(footer)을 아랫줄에 작성 (관련된 이슈 번호 등 추가)
-
----
-### feat : 새로운 기능 추가
-### fix : 버그 수정
-### docs : 문서 수정
-### test : 테스트 코드 추가
-### ref : 코드 리팩토링
-### style : 코드 의미에 영향을 주지 않는 변경사항
-### chore : 빌드 부분 혹은 패키지 매니저 수정사항
----
+| 팀원 | 소개 페이지 | 맛집 리스트 |
+| ---- | -----------| -----------|
+|[조준연](https://github.com/GJYeon)| [PROFILE](https://github.com/20260304-KB7-27/door_git_basic/blob/main/docs/members/member-junyeon.md) | [HOT-PLACE](https://github.com/20260304-KB7-27/door_git_basic/blob/main/docs/topics/junyeon-hot-list.md) |
+|[공서연](https://github.com/seoyeeon)| [PROFILE](https://github.com/20260304-KB7-27/door_git_basic/blob/main/docs/members/member-seoyeon.md) | [HOT-PLACE](https://github.com/20260304-KB7-27/door_git_basic/blob/main/docs/topics/ksy-hot-list.md) |
+|[김도현](https://github.com/dodo5517)| [PROFILE](https://github.com/20260304-KB7-27/door_git_basic/blob/main/docs/members/member-kdh.md) | [HOT-PLACE](https://github.com/20260304-KB7-27/door_git_basic/blob/main/docs/topics/kdh-hot-list.md) |
+|[김지원](https://github.com/dony-beep)| [PROFILE](https://github.com/20260304-KB7-27/door_git_basic/blob/main/docs/members/jiwon.md) | [HOT-PLACE](https://github.com/20260304-KB7-27/door_git_basic/blob/main/docs/topics/kjw-hot-list.md) |
+|[김혜진](https://github.com/jin3574)| [PROFILE](https://github.com/20260304-KB7-27/door_git_basic/blob/main/docs/members/khj.md) | [HOT-PLACE](https://github.com/20260304-KB7-27/door_git_basic/blob/main/docs/topics/khj-hot-list.md) |
+|[김충훈](https://github.com/kchun0513)| [PROFILE](https://github.com/20260304-KB7-27/door_git_basic/blob/main/docs/members/%EA%B9%80%EC%B6%A9%ED%9B%88.md) | [HOT-PLACE](https://github.com/20260304-KB7-27/door_git_basic/blob/main/docs/topics/kch-hot-list.md) |
