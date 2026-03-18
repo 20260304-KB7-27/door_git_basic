@@ -13,4 +13,8 @@
 |[김혜진](https://github.com/jin3574)| [PROFILE](https://github.com/20260304-KB7-27/door_git_basic/blob/main/docs/members/khj.md) | [HOT-PLACE](https://github.com/20260304-KB7-27/door_git_basic/blob/main/docs/topics/khj-hot-list.md) |
 |[김충훈](https://github.com/kchun0513)| [PROFILE](https://github.com/20260304-KB7-27/door_git_basic/blob/main/docs/members/%EA%B9%80%EC%B6%A9%ED%9B%88.md) | [HOT-PLACE](https://github.com/20260304-KB7-27/door_git_basic/blob/main/docs/topics/kch-hot-list.md) |
 
-나는야 퉁퉁이~~~
+## 수정 이력
+
+| 일자 | 팀원 | 수정 내역 |
+| ---- | ---- | -------- |
+| 2026-03-18 | 김충훈 | 링크 수정 |
